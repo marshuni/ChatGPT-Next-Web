@@ -3,7 +3,7 @@
         "silent": true
     },
     "functions": {
-        "/api/[provider]/[...path]": {
+        "api/[provider]/[...path]": {
             "maxDuration": 60
         }
     }
